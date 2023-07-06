@@ -7,9 +7,14 @@ Healthcare-Toolkit is the visual analytic toolkit for syndromic surveillance of 
 1. Statistical Analysis and Anomaly Identification
 2. Spatio-temporal Visualization by generating hotspots
 3. Machine Learning and Predictive Modeling i.e., Time Series Forecasting upto 3 days
-4. Syndromic Surveillance
-5. User-friendly Interface and Interactivity
+4. Data Aggregation using clustering algorithm
+5. Syndromic Surveillance
+6. User-friendly Interface and Interactivity
 
 ## How to use it?
+
+You can download and view Demonstration.mp4 and Flow Diagram.
+
+## Installation
 
 
