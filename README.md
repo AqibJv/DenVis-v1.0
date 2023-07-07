@@ -16,7 +16,7 @@ DenVis is the visual analytic toolkit for syndromic surveillance of Dengue Dise
 1. You can download and view Demonstration.mp4 and Flow Diagram.
 2. Dataset to be used or imported in the toolkit must have the same pattern and attributes like **ABCD.csv** added inside _scr/Dataset_ e.g. Date format, Coordinates must already be added in the Dataset otherwise analysis won't work.
 3. Dataset must be preprocessed before using it i.e., null values, excluding irrelevant attributes etc.
-4. Shapefiles for Lahore, Pakistan will be associated and compiled automatically while installation, still they have been added in _src/Shapefiles_.
+4. Shapefiles for Lahore, Pakistan will be associated and compiled automatically while installation, still they have been added in _src/Shapefile/Lahore towns uc and vill_.
 5. Test Dataset **ABCD.csv** will be in the installed folder too.
 
 ## Installation
