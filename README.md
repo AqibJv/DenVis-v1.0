@@ -23,4 +23,4 @@ Installation of this software has been made extremely easy for the users. They c
 2. There will be no need to build and install required dependencies and libraries by yourself. 
 3. Download **DenVis_v1.0_setup.exe** in your desired folder.
 4. Open this file and follow on-screen instructions to install the software in your desired folder. Default will be C:\Program Files.
-5. Run Healthcare-Toolkit by clicking the shortcut created on Desktop.
+5. Run DenVis v1.0 by clicking the shortcut created on Desktop.
